@@ -6,9 +6,9 @@ g++ -O2 -std=c++11 -o apriori_tanvir apriori_tanvir.cpp
 
 # Syntax to execute the code:
 ./apriori_tanvir dataT10K500D12L.data.txt 0.001 0.8 a
-or
+
 ./apriori_tanvir dataT10K500D12L.data.txt 0.001 0.8 r
-or
+
 ./apriori_tanvir dataT10K500D12L.data.txt 0.001 0.8 a
 
 # Execution time
