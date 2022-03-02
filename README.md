@@ -1,6 +1,7 @@
 # Apriori
 
 Syntax to compile the code on MacBook Pro:
+
 g++ -O2 -std=c++11 -o apriori_tanvir apriori_tanvir.cpp
 
 # Syntax to execute the code:
